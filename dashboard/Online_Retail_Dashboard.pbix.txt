@@ -1,0 +1,56 @@
+# Power BI Dashboard Instructions
+
+## Online Retail Dashboard
+
+This file is a placeholder for the Power BI dashboard file (.pbix).
+
+### Dashboard Components:
+
+1. **Overview Page:**
+   - Total Revenue KPI
+   - Total Transactions KPI
+   - Total Customers KPI
+   - Average Order Value KPI
+   - Daily/Monthly Revenue Trend Line Chart
+
+2. **Customer Segmentation Page:**
+   - Customer Segment Distribution (Pie Chart)
+   - RFM Score Distribution (Bar Chart)
+   - Cluster Analysis Visualization
+   - Top 10 Customers Table
+
+3. **Product Analysis Page:**
+   - Top 10 Products by Revenue (Bar Chart)
+   - Product Category Performance
+   - Product Recommendation Matrix
+
+4. **Geographic Analysis Page:**
+   - Sales by Country (Map Visualization)
+   - Top 10 Countries by Revenue (Bar Chart)
+
+5. **Time-based Analysis Page:**
+   - Sales by Hour of Day (Line Chart)
+   - Sales by Day of Week (Bar Chart)
+   - Monthly Trends
+
+### Data Sources:
+- processed_data.csv
+- customer_segments.csv
+- segment_analysis.csv
+
+### To Create the Dashboard:
+
+1. Open Power BI Desktop
+2. Import the CSV files from the ../data/ directory
+3. Create the visualizations as outlined above
+4. Apply appropriate filters and slicers
+5. Format with a professional theme
+6. Save as "Online_Retail_Dashboard.pbix"
+
+### Recommended Visualizations:
+- Use card visuals for KPIs
+- Use line charts for trends over time
+- Use bar/column charts for comparisons
+- Use pie/donut charts for segment distributions
+- Use tables for detailed data
+- Add slicers for: Date Range, Country, Customer Segment
