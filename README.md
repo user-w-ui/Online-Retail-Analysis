@@ -14,7 +14,7 @@ The goal is to transform raw transactional data into actionable business intelli
 
 
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 \- \*\*Language:\*\* Python 3.x (Windows 11 Environment)
 
