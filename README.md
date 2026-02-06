@@ -1,6 +1,6 @@
 # Online-Retail-Analysis
 
-\##  Project Overview
+##  Project Overview
 
 This project provides a comprehensive data science solution for a UK-based online retail dataset (UCI Online Retail II). Beyond basic exploration, it implements a full-stack analytics pipeline: from automated data ingestion and cleaning to advanced customer segmentation, sales forecasting, Customer Lifetime Value (CLV) prediction, and a personalized recommendation engine.
 
@@ -14,7 +14,7 @@ The goal is to transform raw transactional data into actionable business intelli
 
 
 
-\## 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 \- \*\*Language:\*\* Python 3.x (Windows 11 Environment)
 
@@ -34,7 +34,7 @@ The goal is to transform raw transactional data into actionable business intelli
 
 
 
-\##  Repository Structure
+##  Repository Structure
 
 ```text
 
