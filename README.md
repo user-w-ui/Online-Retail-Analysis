@@ -6,7 +6,7 @@ This project provides a comprehensive data science solution for a UK-based onlin
 
 
 
-The goal is to transform raw transactional data into actionable business intelligence, visualized through integration with \*\*Power BI\*\*.
+The goal is to transform raw transactional data into actionable business intelligence, visualized through integration with Power BI.
 
 
 
