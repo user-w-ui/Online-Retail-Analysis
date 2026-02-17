@@ -49,6 +49,7 @@ The goal is to transform raw transactional data into actionable business intelli
 ├── others/                         # Power BI templates (.pbix) and rule-based metadata
 
 └── requirements.txt                # Project dependencies
+```
 
 
 
