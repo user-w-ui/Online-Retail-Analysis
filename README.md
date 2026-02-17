@@ -75,7 +75,7 @@ Predicts future revenue trends to optimize inventory management.
 Estimates the future monetary value of each customer using the **Buy-'Til-You-Die (BTYD)** framework.
 * **Frequency Model:** **BG/NBD** (Beta-Geometric/Negative Binomial Distribution) to predict future transaction counts.
 * **Monetary Model:** **Gamma-Gamma** to estimate average transaction value.
-* **Result:** Predicted 6-month CLV for individual users to guide Customer Acquisition Cost (CAC) allocation.
+* **Result:** Predicted 12-month CLV for individual users to guide Customer Acquisition Cost (CAC) allocation.
 
 ### 4. Recommendation Engine
 Increases cross-selling opportunities through personalized product suggestions.
