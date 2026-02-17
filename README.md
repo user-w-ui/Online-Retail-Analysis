@@ -82,3 +82,37 @@ Increases cross-selling opportunities through personalized product suggestions.
 * **Algorithm:** **SVD (Singular Value Decomposition)** from the `scikit-surprise` library.
 * **Feature:** Collaborative filtering based on implicit feedback (Purchase Quantity).
 * **Metric:** Evaluated using **Hit Rate @ 10** to ensure relevance of top recommendations.
+
+## ⚡ Quick Start
+
+### Prerequisites
+* Python 3.8+
+* Jupyter Notebook or JupyterLab
+* Power BI Desktop (for dashboard viewing)
+
+### Installation
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/your-username/online-retail-analysis.git](https://github.com/your-username/online-retail-analysis.git)
+    cd online-retail-analysis
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### Usage
+1.  **Data Processing**
+    Run the first notebook to fetch and clean the raw data:
+    ```bash
+    jupyter notebook code/01_Data_Processing.ipynb
+    ```
+    *Output: Generates `data/online_retail_II_cleaned.csv`*
+
+2.  **Modeling & Analysis**
+    Run the second notebook to execute RFM clustering, forecasting, and CLV prediction:
+    ```bash
+    jupyter notebook code/02_Modeling_Analysis.ipynb
+    ```
+    *Output: Generates prediction files in `data/` for the Power BI dashboard.*
