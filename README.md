@@ -40,9 +40,9 @@ The goal is to transform raw transactional data into actionable business intelli
 
 ├── code/
 
-│   ├── 01\\\_Data\\\_Processing.ipynb    # ETL, cleaning, and feature engineering
+│   ├── 01\_Data\_Processing.ipynb    # ETL, cleaning, and feature engineering
 
-│   └── 02\\\_Modeling\\\_Analysis.ipynb  # Advanced modeling and evaluation
+│   └── 02\_Modeling\_Analysis.ipynb  # Advanced modeling and evaluation
 
 ├── data/                           # Processed CSV outputs for BI tools
 
