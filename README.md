@@ -83,7 +83,7 @@ Increases cross-selling opportunities through personalized product suggestions.
 * **Feature:** Collaborative filtering based on implicit feedback (Purchase Quantity).
 * **Metric:** Evaluated using **Hit Rate @ 10** to ensure relevance of top recommendations.
 
-## ⚡ Quick Start
+## Quick Start
 
 ### Prerequisites
 * Python 3.8+
