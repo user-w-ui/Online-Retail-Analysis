@@ -83,6 +83,17 @@ Increases cross-selling opportunities through personalized product suggestions.
 * **Feature:** Collaborative filtering based on implicit feedback (Purchase Quantity).
 * **Metric:** Evaluated using **Hit Rate @ 10** to ensure relevance of top recommendations.
 
+## 📊 Business Intelligence (Power BI)
+
+An interactive dashboard integrates the modeling outputs, bridging the gap between machine learning and business strategy.
+
+* **Executive View:** Real-time KPIs (Total Revenue, AOV, Active Customers).
+* **Cohort Analysis:** Visualizes customer retention rates month-over-month.
+* **Forecast vs. Actuals:** Tracks the accuracy of Holt-Winters predictions against real sales data.
+* **Migration Analysis:** Sankey-style logic to view how customers move between segments over time.
+
+> 🚀 **[Click here to view the Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=239e5a8d-5272-4353-9a00-af745c8728f2&autoAuth=true&ctid=5ba5ef5e-3109-4e77-85bd-cfeb0d347e82)**
+
 ## Quick Start
 
 ### Prerequisites
