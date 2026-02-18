@@ -93,6 +93,7 @@ An interactive dashboard integrates the modeling outputs, bridging the gap betwe
 * **Migration Analysis:** Sankey-style logic to view how customers move between segments over time.
 
 > **[Click here to view the Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=239e5a8d-5272-4353-9a00-af745c8728f2&autoAuth=true&ctid=5ba5ef5e-3109-4e77-85bd-cfeb0d347e82)**
+<img width="2317" height="1235" alt="image" src="https://github.com/user-attachments/assets/8647cac9-168d-4a8f-85b4-db3e269ff58b" />
 
 ## Quick Start
 
