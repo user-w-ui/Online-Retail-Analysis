@@ -94,8 +94,12 @@ An interactive dashboard integrates the modeling outputs, bridging the gap betwe
 * **Forecast vs. Actuals:** Tracks the accuracy of Holt-Winters predictions against real sales data.
 * **Migration Analysis:** Sankey-style logic to view how customers move between segments over time.
 
-https://github.com/user-attachments/assets/13274493-d406-4059-ae76-03fe27a46180
 
+https://github.com/user-attachments/assets/1e776add-7374-432e-b007-32720d8dde2f
+
+
+
+https://github.com/user-attachments/assets/95f8db99-2781-4cb8-9ec5-a79d8bac1d3d
 
 
 
