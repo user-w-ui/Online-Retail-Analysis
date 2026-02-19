@@ -65,8 +65,8 @@ Identifies distinct customer personas to enable precision marketing.
 * **Optimization:** Applied **Log Transformation** and **StandardScaler** to handle skewness, used **IQR** to remove statistical outliers, and selected optimal $k$ via the **Elbow Method**.
 * **Outcome:** Segmented user base into actionable groups (e.g., *Champions, Loyalists, At-Risk, Hibernating*).
 
-### 2. Sales Forecasting (Time Series)
-Predicts future revenue trends to optimize inventory management.
+### 2. Sales and AOV Forecasting (Time Series)
+Predicts future revenue and AOV trends to optimize inventory management.
 * **Model:** **Holt-Winters Triple Exponential Smoothing** (Additive Trend & Seasonality).
 * **Configuration:** Resampled data to **Weekly ('W')** frequency with a 52-week seasonal period to capture annual retail cycles.
 * **Impact:** Generates an 8-week forward-looking sales forecast with confidence intervals.
