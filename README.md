@@ -46,7 +46,9 @@ The goal is to transform raw transactional data into actionable business intelli
 
 ├── data/                           # Processed CSV outputs for BI tools
 
-├── others/                         # Power BI templates (.pbix) and rule-based metadata
+├── others/                         # Some backup files and process documentation
+
+├── Online_Retail.pbix              # Power BI Data Visualization Draft
 
 └── requirements.txt                # Project dependencies
 ```
